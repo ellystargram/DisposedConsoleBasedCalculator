@@ -1,0 +1,56 @@
+﻿  cal ko.c
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(41,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(41,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(41,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(41,11): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(72,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(72,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(72,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(72,11): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(122,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(122,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(122,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(122,10): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(131,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(131,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(131,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(131,11): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(156,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(156,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(156,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(156,11): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(196,13): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(196,17): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(196,9): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(237,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(237,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(237,12): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(237,12): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(277,14): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(277,18): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(277,10): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(322,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(322,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(322,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(322,11): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(379,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(379,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(379,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(379,11): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(440,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(440,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(440,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(440,10): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(457,9): warning C4244: '=': conversion from '__int64' to 'long double', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(460,9): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(488,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(488,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(488,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(488,10): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(598,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(598,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(598,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(598,10): message : this argument is used as a buffer size
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(699,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\user\OneDrive\programing\Cal\claculator\claculator\cal ko.c(879,1): warning C4102: 'manual': unreferenced label
+  claculator.vcxproj -> C:\Users\user\OneDrive\programing\Cal\claculator\x64\Debug\claculator.exe
